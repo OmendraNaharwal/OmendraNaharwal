@@ -7,8 +7,8 @@
 *"Code is not just syntax — it's the art of turning ideas into reality."*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OmendraNaharwal&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/OmendraNaharwal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omendra-naharwal)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omendranaharwal2005@gmail.com)
 
 </div>
 
@@ -64,7 +64,7 @@ const omendra = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/OmendraNaharwal?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/olamama3/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/olamama3?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/olamama3)
 
 </div>
 
