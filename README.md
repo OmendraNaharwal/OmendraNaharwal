@@ -68,8 +68,6 @@ const omendra = {
 
 </div>
 
-> 💡 **Replace `OmendraNaharwal` above with your actual LeetCode username!**
-
 ---
 
 ## 🌐 Languages & Tools
