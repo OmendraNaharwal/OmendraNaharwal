@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Omendra Naharwal**
+# Hey there, I'm **Omendra Naharwal**
 
-### 🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
+### Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 *"Code is not just syntax — it's the art of turning ideas into reality."*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 ```javascript
 const omendra = {
@@ -24,20 +24,20 @@ const omendra = {
   stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
   currentlyLearning: ["TypeScript", "System Design", "DevOps"],
   interests: ["Open Source", "Competitive Programming", "UI/UX"],
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  funFact: "I debug with console.log and I'm not ashamed "
 };
 ```
 
-- 🔭 Currently building scalable **full-stack web applications**
-- 🌱 Exploring **TypeScript**, **System Design** & **Cloud Technologies**
-- 💡 Passionate about writing **clean, efficient code**
-- 🏆 Active **LeetCode** problem solver
-- 🤝 Open to **collaborating** on interesting projects
-- ⚡ Fun fact: I turn ☕ coffee into code!
+-  Currently building scalable **full-stack web applications**
+-  Exploring **TypeScript**, **System Design** & **Cloud Technologies**
+-  Passionate about writing **clean, efficient code**
+-  Active **LeetCode** problem solver
+-  Open to **collaborating** on interesting projects
+-  Fun fact: I turn  coffee into code!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 
@@ -50,7 +50,7 @@ const omendra = {
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const omendra = {
 
 ---
 
-## 🧩 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
@@ -70,35 +70,41 @@ const omendra = {
 
 ---
 
-## 🌐 Languages & Tools
+## 🖥️ Languages & Tools
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<table>
+<tr><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br><sub><b>C++</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br><sub><b>React</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/><br><sub><b>Redux</b></sub></td></tr>
+
+<tr><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br><sub><b>Tailwind</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br><sub><b>Express.js</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><sub><b>MySQL</b></sub></td></tr>
+
+<tr><td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br><sub><b>Firebase</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br><sub><b>Figma</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/><br><sub><b>Postman</b></sub></td></tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -112,7 +118,7 @@ const omendra = {
 
 <div align="center">
 
-### 💬 *"First, solve the problem. Then, write the code."*
+### *"First, solve the problem. Then, write the code."*
 
 ⭐️ From [OmendraNaharwal](https://github.com/OmendraNaharwal)
 
