@@ -70,7 +70,7 @@ const omendra = {
 
 ---
 
-## 🖥️ Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
