@@ -60,6 +60,9 @@ const omendra = {
 
 ---
 
+
+
+<!--
 ## LeetCode Stats
 
 <div align="center">
@@ -69,6 +72,9 @@ const omendra = {
 </div>
 
 ---
+-->
+
+
 
 ## Languages & Tools
 
