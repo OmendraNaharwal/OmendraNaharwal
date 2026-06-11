@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey there, I'm **Omendra Naharwal**
-
 ### Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 *"Code is not just syntax — it's the art of turning ideas into reality."*
